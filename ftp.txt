@@ -1,0 +1,6 @@
+﻿登入帳號 :  greekfro
+登入密碼 :  sert4w34z
+您的網域 :  greek-frontier.com
+cpanel控制台 http://greek-frontier.com:2082
+public_html
+ftp.greek-frontier.com

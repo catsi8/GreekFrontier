@@ -1,0 +1,11 @@
+﻿Changelog for 2.4.3
+
+- fixed some vulnerabilities when register_globals is turned on
+
+Changelog for 2.4.2
+
+- use PHP's internal font if TTF is not available
+- added CAPTCHA for comments
+
+
+
